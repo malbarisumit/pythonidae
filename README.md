@@ -69,4 +69,7 @@ __To submit a [PR](https://github.com/svaksha/pythonidae/pulls)__:
 
 ## Stargazers
 [![Stargazers over time](https://starchart.cc/svaksha/pythonidae.svg)](https://starchart.cc/svaksha/pythonidae)
+
+
+## added read me file
       
